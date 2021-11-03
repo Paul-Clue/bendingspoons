@@ -16,8 +16,8 @@ This is the home page UI for a potential workout app. This page was built specif
 
 ## The Original
 
-![screenshot](./img/BendingSpoonsDirections.png)
+![screenshot](./Resources/img/BendingSpoonsDirections.png)
 
 ## My Clone
 
-![screenshot](./img/MyCopy2.png)
+![screenshot](./Resources/img/MyCopy2.png)

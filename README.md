@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the home page UI for a potential workout app. This page was built specifically for the IPhone X screen size. I was given the original UI and told to make an exact replica of it in 2 1/2 hours. This image folder holds a screenshot of the original.
+This is the home page UI for a potential workout app. This page was built specifically for the IPhone X screen size. I was given the original UI and told to make an exact replica of it in 2 1/2 hours.
 
 ## Instructions
 
